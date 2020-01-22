@@ -1,0 +1,4 @@
+--warnings
+--color
+--require ./rspec_gradescope_formatter.rb
+--format RSpecGradescopeFormatter
